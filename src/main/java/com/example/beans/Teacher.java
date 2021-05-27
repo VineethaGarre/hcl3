@@ -30,6 +30,7 @@ public class Teacher {
 	public String toString() {
 		return "Teacher [subject=" + subject + ", examtip=" + examtip + ", homework=" + homework + "]";
 	}
+//Teacher
 	
 
 }
